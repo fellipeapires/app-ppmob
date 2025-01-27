@@ -1,0 +1,542 @@
+[
+	{
+		"sgrodovia" : "A100A",
+		"nmrodovia" : "ACESSO LAGUNA (FAROL DE SANTA MARTA): ENTR. SC-100 - FAROL DE SANTA MARTA"
+	},
+	{
+		"sgrodovia" : "A100B",
+		"nmrodovia" : "ACESSO JAGUARUNA: ENTR. SC-100 - DISTRITO BALNEÁRIO ARROIO CORRENTES"
+	},
+	{
+		"sgrodovia" : "A101A",
+		"nmrodovia" : "ACESSO JOINVILLE: ENTR. BR-101 - DISTRITO INDUSTRIAL (ENTR. RUA TENENTE ANTÔNIO JOÃO\/ AV. SANTOS DUMONT)"
+	},
+	{
+		"sgrodovia" : "A101C",
+		"nmrodovia" : "ACESSO PENHA: ENTR. BR-101 (P\/ PIÇARRAS) - PENHA"
+	},
+	{
+		"sgrodovia" : "A101D",
+		"nmrodovia" : "ACESSO BETO CARRERO: ENTR. BR-101 (P\/ ITAJAÍ) - BETO CARRERO WORLD (PENHA)"
+	},
+	{
+		"sgrodovia" : "A101F",
+		"nmrodovia" : "ACESSO LAGUNA: ENTR. BR-101 - LAGUNA"
+	},
+	{
+		"sgrodovia" : "A101G",
+		"nmrodovia" : "ACESSO CRICIÚMA: ENTR. BR-101 (P\/ MARACAJÁ) - CRICIÚMA (INÍCIO DA AVENIDA CENTENÁRIO)"
+	},
+	{
+		"sgrodovia" : "A101H",
+		"nmrodovia" : "ACESSO PASSO DE TORRES: ENTR. BR-101 (P\/ DIVISA SC\/RS) - PASSO DE TORRES"
+	},
+	{
+		"sgrodovia" : "A101I",
+		"nmrodovia" : "ACESSO DE LIGAÇÃO SUL DE CRICIÚMA: ENTR. BR-101 (P\/ MARACAJÁ) - ENTR. SC-108 (P\/ FORQUILINHA)"
+	},
+	{
+		"sgrodovia" : "A101J",
+		"nmrodovia" : "ACESSO AVENIDA GABRIEL ZANETTE: ENTR. ACESSO CRICIÚMA - INÍCIO DA AVENIDA GABRIEL ZANETTE"
+	},
+	{
+		"sgrodovia" : "A108A",
+		"nmrodovia" : "ACESSO NORTE DISTRITO CLARAÍBA: ENTR. SC-108 (P\/ SÃO JOÃO BATISTA) - DISTRITO CLARAÍBA (ACESSO NORTE)"
+	},
+	{
+		"sgrodovia" : "A110A",
+		"nmrodovia" : "ACESSO LESTE RIO DOS CEDROS: ENTR. SC-110 (P\/ POMERODE) - RIO DOS CEDROS (ACESSO LESTE)"
+	},
+	{
+		"sgrodovia" : "A155A",
+		"nmrodovia" : "ACESSO OESTE OURO VERDE: ENTR. SC-155 (P\/ BOM JESUS) - OURO VERDE (ACESSO OESTE)"
+	},
+	{
+		"sgrodovia" : "A155B",
+		"nmrodovia" : "ACESSO SUL DE SEARA: CONTORNO OESTE DE SEARA (ENTR. SC-155) - ENTR. SC-283 (P\/ CHAPECÓ)"
+	},
+	{
+		"sgrodovia" : "A156A",
+		"nmrodovia" : "ACESSO MAREMA: LAJEADO GRANDE (ENTR. 156) - MAREMA"
+	},
+	{
+		"sgrodovia" : "A156B",
+		"nmrodovia" : "ACESSO SÃO DOMINGOS: ENTR. SC-156 - SÃO DOMINGOS"
+	},
+	{
+		"sgrodovia" : "A157A",
+		"nmrodovia" : "ACESSO IRATI: FORMOSA DO SUL (ENTR. SC-157) - IRATI (ENTR. SC-159)"
+	},
+	{
+		"sgrodovia" : "A160A",
+		"nmrodovia" : "ACESSO LESTE BOMJESUS DO OESTE: ENTR. SC-160 (P\/ SALTINHO) - BOM JESUS DO OESTE (ACESSO LESTE)"
+	},
+	{
+		"sgrodovia" : "A160B",
+		"nmrodovia" : "ACESSO CUNHATAÍ: ENTR. SC-160 (P\/ SAUDADES) - CUNHATAÍ"
+	},
+	{
+		"sgrodovia" : "A160C",
+		"nmrodovia" : "ACESSO SUL BRASIL: ENTR. SC-160 (P\/ MODELO) - SUL BRASIL"
+	},
+	{
+		"sgrodovia" : "A161A",
+		"nmrodovia" : "ACESSO SEDE OURO: ENTR. SC-161 (P\/ ROMELÂNDIA) - SEDE OURO"
+	},
+	{
+		"sgrodovia" : "A163A",
+		"nmrodovia" : "ACESSO PRINCESA: SÃO JOSÉ DO CEDRO (ENTR. BR-163) - PRINCESA"
+	},
+	{
+		"sgrodovia" : "A280B",
+		"nmrodovia" : "ACESSO SUL SÃO BENTO DO SUL: ENTR. BR-280 (P\/ CORUPÁ) - SÃO BENTO DO SUL (ACESSO SUL)"
+	},
+	{
+		"sgrodovia" : "A280C",
+		"nmrodovia" : "ACESSO OESTE SÃO BENTO DO SUL: ENTR. BR-280 (P\/ RIO NEGRINHO) - SÃO BENTO DO SUL (ACESSO OESTE)"
+	},
+	{
+		"sgrodovia" : "A280D",
+		"nmrodovia" : "ACESSO IRINEÓPOLIS: ENTR. SC-280 (P\/ PORTO UNIÃO) - IRINEÓPOLIS"
+	},
+	{
+		"sgrodovia" : "A281A",
+		"nmrodovia" : "ACESSO IMBUIA: ENTR. SC-281 (P\/ IMBUIA) - ENTR. SC-350 (P\/ ITUPORANGA)"
+	},
+	{
+		"sgrodovia" : "A282A",
+		"nmrodovia" : "ACESSO NOVA ITABERABA: ENTR. BR-282 (P\/ NOVA ERECHIM) - NOVA ITABERABA"
+	},
+	{
+		"sgrodovia" : "A283A",
+		"nmrodovia" : "ACESSO ARVOREDO: ENTR. SC-283 (P\/ CHAPECÓ) - ARVOREDO"
+	},
+	{
+		"sgrodovia" : "A283B",
+		"nmrodovia" : "ACESSO À RUA TANCREDO DE ALMEIDA NEVES: ENTR. SC-283 (CONTORNO NORTE DE CONCÓRDIA) - ENTR. ACESSO À RUA TANCREDO DE ALMEIDA NEVES"
+	},
+	{
+		"sgrodovia" : "A340A",
+		"nmrodovia" : "ACESSO JOSÉ BOITEUX: ENTR. SC-340 (P\/ IBIRAMA) - JOSÉ BOITEUX"
+	},
+	{
+		"sgrodovia" : "A340B",
+		"nmrodovia" : "ACESSO DONA EMMA: ENTR. SC-340 (P\/ WITMARSUM) - DONA EMMA"
+	},
+	{
+		"sgrodovia" : "A350A",
+		"nmrodovia" : "ACESSO ABELARDO LUZ: ENTR.350 - ABELARDO LUZ"
+	},
+	{
+		"sgrodovia" : "A350C",
+		"nmrodovia" : "ACESSO PASSOS MAIA: ENTR. SC-350 - PASSOS MAIA"
+	},
+	{
+		"sgrodovia" : "A401A",
+		"nmrodovia" : "ACESSO AEROPORTO INTERNACIONAL HERCÍLIO LUZ: ENTR. SC-401 - AEROPORTO INTERNACIONAL HERCÍLIO LUZ"
+	},
+	{
+		"sgrodovia" : "A405A",
+		"nmrodovia" : "ACESSO FLORIANÓPOLIS (TAPERA): ENTR. SC-405 - TAPERA"
+	},
+	{
+		"sgrodovia" : "A410A",
+		"nmrodovia" : "ACESSO SUL DISTRITO CLARAÍBA: ENTR. SC-410 (P\/ SÃO JOÃO BATISTA) - DISTRITO CLARAÍBA (ACESSO SUL)"
+	},
+	{
+		"sgrodovia" : "A443A",
+		"nmrodovia" : "ACESSO VILA MARIA: ENTR. SC-443 (P\/ CRICIÚMA) - DISTRITO VILA MARIA"
+	},
+	{
+		"sgrodovia" : "A446A",
+		"nmrodovia" : "ACESSO RIO MAINA: ENTR. SC-446 (P\/ NOVA VENEZA) - DISTRITO RIO MAINA"
+	},
+	{
+		"sgrodovia" : "A447A",
+		"nmrodovia" : "ACESSO ERMO: ENTR. SC-447 (P\/ ARARANGUÁ)- ERMO (ENTR. SC-108\/SC-285\/BR-285)"
+	},
+	{
+		"sgrodovia" : "A467A",
+		"nmrodovia" : "ACESSO JABORÁ: ENTR. SC-467 - JABORÁ"
+	},
+	{
+		"sgrodovia" : "A470A",
+		"nmrodovia" : "ACESSO MIRIM DOCE: ENTR. BR-470 (P\/ POUSO REDONDO) - MIRIM DOCE"
+	},
+	{
+		"sgrodovia" : "A470B",
+		"nmrodovia" : "ACESSO BRUNÓPOLIS: ENTR. BR-470 (P\/ CURITIBANOS) - BRUNÓPOLIS"
+	},
+	{
+		"sgrodovia" : "A477A",
+		"nmrodovia" : "ACESSO SUL RIO DOS CEDROS: ENTR. SC-477 (TIMBÓ) - RIO DOS CEDROS (ACESSO SUL)"
+	},
+	{
+		"sgrodovia" : "A492A",
+		"nmrodovia" : "ACESSO OESTE BOM JESUS DO OESTE: ENTR. SC-492 - BOM JESUS DO OESTE (ACESSO OESTE)"
+	},
+	{
+		"sgrodovia" : "BR101",
+		"nmrodovia" : "DIVISA SC\/PR (ENTR. BR-376) - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "BR116",
+		"nmrodovia" : "DIVISA SC\/PR - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "BR280",
+		"nmrodovia" : "SÃO FRANCISCO DO SUL (PORTO) - PORTO UNIÃO"
+	},
+	{
+		"sgrodovia" : "BR480",
+		"nmrodovia" : "SÃO LOURENÇO DO OESTE (ENTR. SC-157\/BR-158\/ DIVISA SC\/PR) - DISTRITO GOIO-EN (DIVISA SC\/RS)"
+	},
+	{
+		"sgrodovia" : "C355",
+		"nmrodovia" : "CONTORNO RODOVIÁRIO DE JABORÁ: ENTR. ACESSO A JABORÁ - ENTR. SC-355 (P\/ DIST. PLANALTO)"
+	},
+	{
+		"sgrodovia" : "C370",
+		"nmrodovia" : "CONTORNO RODOVIÁRIO DE TUBARÃO: ENTR. SC-370 - ENTR. BR-101"
+	},
+	{
+		"sgrodovia" : "C417",
+		"nmrodovia" : "CONTORNO RODOVIÁRIO DO MUNICÍPIO DE GARUVA: ENTR. BR-101 - ENTR. SC-417"
+	},
+	{
+		"sgrodovia" : "C446",
+		"nmrodovia" : "CONTORNO RODOVIÁRIO DE LAURO MÜLLER: ENTR. SC-446 (P\/ TREVISO) - ENTR. SC-390 (P\/ BOM JARDIM DA SERRA)"
+	},
+	{
+		"sgrodovia" : "C480",
+		"nmrodovia" : "CONTORNO LESTE DE XANXERÊ: ENTR. SC-480 - ENTR. BR-282"
+	},
+	{
+		"sgrodovia" : "RM467",
+		"nmrodovia" : "ENTR.SC-150 - ENTR. SC-467"
+	},
+	{
+		"sgrodovia" : "SC100",
+		"nmrodovia" : "LAGUNA - ENTR. ACESSO PASSO DE TORRES"
+	},
+	{
+		"sgrodovia" : "SC108",
+		"nmrodovia" : "ENTR. BR-101 (JOINVILLE) - PRAIA GRANDE (ENTR. SUL SC-290)"
+	},
+	{
+		"sgrodovia" : "SC110",
+		"nmrodovia" : "DIVISA SC\/PR - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "SC112",
+		"nmrodovia" : "DIVISA SC\/PR - ENTR. SC-114 (P\/ SÃO JOAQUIM)"
+	},
+	{
+		"sgrodovia" : "SC114",
+		"nmrodovia" : "ENTR. BR-116 (P\/ PAPANDUVA) - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "SC120",
+		"nmrodovia" : "DIVISA SC\/PR - CAMPO BELO DO SUL (ENTR. SC-390)"
+	},
+	{
+		"sgrodovia" : "SC135",
+		"nmrodovia" : "ENTR. SC-280 (P\/ PORTO UNIÃO) - CELSO RAMOS (ENTR. SC-390)"
+	},
+	{
+		"sgrodovia" : "SC150",
+		"nmrodovia" : "DIVISA SC\/PR - ENTR. SC-390 (P\/ PIRATUBA)"
+	},
+	{
+		"sgrodovia" : "SC154",
+		"nmrodovia" : "DIVISA SC\/PR - ITÁ (ENTR. SC-155)"
+	},
+	{
+		"sgrodovia" : "SC155",
+		"nmrodovia" : "DIVISA SC\/PR - DIVISA SC\/RS (PONTE S\/ RIO URUGUAI)"
+	},
+	{
+		"sgrodovia" : "SC156",
+		"nmrodovia" : "DIVISA SC\/PR - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "SC157",
+		"nmrodovia" : "SÃO LOURENÇO DO OESTE (ENTR. SC-480\/BR-158\/ DIVISA SC\/PR) - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "SC159",
+		"nmrodovia" : "DIVISA SC\/PR - DIVISA SC\/RS (BALSA)"
+	},
+	{
+		"sgrodovia" : "SC160",
+		"nmrodovia" : "CAMPO ERÊ (ENTR. SC-305 P\/ ANCHIETA) - DIVISA SC\/RS (BALSA)"
+	},
+	{
+		"sgrodovia" : "SC161",
+		"nmrodovia" : "DIVISA SC\/PR - RIQUEZA (ENTR. SC-283)"
+	},
+	{
+		"sgrodovia" : "SC163",
+		"nmrodovia" : "SÃO MIGUEL DO OESTE (ENTR. BR-163\/BR-282) - ITAPIRANGA (ENTR. SC-283\/SC-170\/ BR-163)"
+	},
+	{
+		"sgrodovia" : "SC170",
+		"nmrodovia" : "DIONÍSIO CERQUEIRA (ENTR. ACESSO PORTO SECO) - ITAPIRANGA (ENTR. SC-283\/SC-163\/BR-163)"
+	},
+	{
+		"sgrodovia" : "SC281",
+		"nmrodovia" : "SÃO JOSÉ (ENTR. BR-101) - ENTR. BR-282 (P\/ VARGEM)"
+	},
+	{
+		"sgrodovia" : "SC283",
+		"nmrodovia" : "ENTR. BR-153 (P\/ IRANI) - ITAPIRANGA (ENTR. SC-163\/SC-170\/ BR-163)"
+	},
+	{
+		"sgrodovia" : "SC284",
+		"nmrodovia" : "ENTR. SC-350 (P\/ ITUPORANGA) - ENTR. BR-470 (P\/ CAMPOS NOVOS)"
+	},
+	{
+		"sgrodovia" : "SC285",
+		"nmrodovia" : "ENTR. BR-101 (P\/ ARARANGUÁ) - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "SC290",
+		"nmrodovia" : "ENTR. BR-101 (P\/ SANTA ROSA DO SUL) - DIVISA SC\/RS"
+	},
+	{
+		"sgrodovia" : "SC305",
+		"nmrodovia" : "SÃO LOURENÇO DO OESTE (ENTR. SC-157) - ENTR. BR-163 (P\/ GUARACIABA)"
+	},
+	{
+		"sgrodovia" : "SC340",
+		"nmrodovia" : "ENTR. SC-280 (P\/ PORTO UNIÃO) - ENTR. BR-470 (P\/ APIÚNA)"
+	},
+	{
+		"sgrodovia" : "SC350",
+		"nmrodovia" : "ABELARDO LUZ (ENTR. SC-155) - ALFREDO WAGNER (ENTR. SC-408)"
+	},
+	{
+		"sgrodovia" : "SC355",
+		"nmrodovia" : "LEBON RÉGIS (ENTR. SC-350) - ENTR. BR-153 (P\/ IRANI)"
+	},
+	{
+		"sgrodovia" : "SC370",
+		"nmrodovia" : "PAINEL (ENTR. SC-114) - TUBARÃO (ENTR. BR-101)"
+	},
+	{
+		"sgrodovia" : "SC386",
+		"nmrodovia" : "ENTR. SC-163\/BR-163 (P\/ ITAPIRANGA) - MONDAÍ (ENTR. SC-283)"
+	},
+	{
+		"sgrodovia" : "SC390",
+		"nmrodovia" : "CONCÓRDIA (ENTR. SC-283) - ENTR. BR-101 (P\/ TUBARÃO)"
+	},
+	{
+		"sgrodovia" : "SC400",
+		"nmrodovia" : "ENTR. SC-402 (P\/ JURERÊ) -  BALNEÁRIO DANIELA"
+	},
+	{
+		"sgrodovia" : "SC401",
+		"nmrodovia" : "CANASVIEIRAS - INICIO TERMINAL"
+	},
+	{
+		"sgrodovia" : "SC402",
+		"nmrodovia" : "ENTR. SC-401 (P\/ CANASVIEIRAS)- JURERÊ"
+	},
+	{
+		"sgrodovia" : "SC403",
+		"nmrodovia" : "ENTR. SC-401 (P\/ CANASVIEIRAS)  - INGLESES DO RIO VERMELHO"
+	},
+	{
+		"sgrodovia" : "SC404",
+		"nmrodovia" : "ENTR. SC-401 (ITACORUBI) - LAGOA DA CONCEIÇÃO (ENTR. RUA LAURINDO JANUÁRIO DA SILVA)"
+	},
+	{
+		"sgrodovia" : "SC405",
+		"nmrodovia" : "ENTR. SC-401 (TREVO DA SETA) - ENTR. SC-406 (TREVO DO ERASMO)"
+	},
+	{
+		"sgrodovia" : "SC406",
+		"nmrodovia" : "INGLESES DO RIO VERMELHO (ENTR. SC-403) - PANTANO SUL"
+	},
+	{
+		"sgrodovia" : "SC407",
+		"nmrodovia" : "BIGUAÇU (ENTR. BR-101) - ENTR. SC-281 (DISTRITO BARRA CLARA)"
+	},
+	{
+		"sgrodovia" : "SC408",
+		"nmrodovia" : "MAJOR GERCINO (ENTR. SC-108) - ALFREDO WAGNER (ENTR. SC-350)"
+	},
+	{
+		"sgrodovia" : "SC410",
+		"nmrodovia" : "TIJUCAS (ENTR. BR-101) - DISTRITO BOITEUXBURGO (ENTR. SC-408)"
+	},
+	{
+		"sgrodovia" : "SC412",
+		"nmrodovia" : "ENTR. BR-101 (P\/ ITAJAÍ) - CONTORNO RODOVIÁRIO GASPAR (ENTR. SC-108 P\/ BRUSQUE)"
+	},
+	{
+		"sgrodovia" : "SC414",
+		"nmrodovia" : "ENTR. BR-470 (P\/ GASPAR) - ENTR. SC-108 (P\/ MASSARANDUBA)"
+	},
+	{
+		"sgrodovia" : "SC415",
+		"nmrodovia" : "ENTR. ACESSO BALNEÁRIO CAPRI - ENTR. SC-108 (P\/ MASSARANDUBA)"
+	},
+	{
+		"sgrodovia" : "SC416",
+		"nmrodovia" : "ENTR. SC-417 (P\/ GARUVA) - ITAPOÁ"
+	},
+	{
+		"sgrodovia" : "SC417",
+		"nmrodovia" : "DIVISA SC\/PR - GARUVA (ENTR. BR-101)"
+	},
+	{
+		"sgrodovia" : "SC418",
+		"nmrodovia" : "ENTR. BR-101 (P\/ JOINVILLE) - DISTRITO DE FRAGOSOS (DIVISA SC\/PR)"
+	},
+	{
+		"sgrodovia" : "SC421",
+		"nmrodovia" : "POMERODE (ENTR. SC-110) - ENTR. BR-470 (P\/ BLUMENAU)"
+	},
+	{
+		"sgrodovia" : "SC427",
+		"nmrodovia" : "ENTR. SC-114 (P\/ SALETE) - ENTR. SC-350 (P\/ TAIÓ)"
+	},
+	{
+		"sgrodovia" : "SC434",
+		"nmrodovia" : "ENTR. BR-101 (P\/ PAULO LOPES) - PAULO LOPES (ENTR. VIA MARGINAL BR-101)"
+	},
+	{
+		"sgrodovia" : "SC435",
+		"nmrodovia" : "ENTR. BR-282 (P\/ ÁGUAS MORNAS) - GRAVATAL (ENTR. SC-370\/BR-475)"
+	},
+	{
+		"sgrodovia" : "SC436",
+		"nmrodovia" : "ENTR. SC-437 (P\/ IMARUÍ) - RIO FORTUNA (ENTR. SC-108)"
+	},
+	{
+		"sgrodovia" : "SC437",
+		"nmrodovia" : "IMBITUBA (ENTR. BR-101) - ENTR. BR-101 (P\/ CAPIVARI DE BAIXO)"
+	},
+	{
+		"sgrodovia" : "SC441",
+		"nmrodovia" : "JAGUARUNA (ENTR. SC-100) - PEDRAS GRANDES (ENTR. SC-390)"
+	},
+	{
+		"sgrodovia" : "SC442",
+		"nmrodovia" : "TREZE DE MAIO (ENTR. SC-441) - ENTR. SC-445 (P\/ SIDERÓPOLIS)"
+	},
+	{
+		"sgrodovia" : "SC443",
+		"nmrodovia" : "ENTR. BR-101 (P\/ JAGUARUNA) - MELEIRO (ENTR. SC-447)"
+	},
+	{
+		"sgrodovia" : "SC445",
+		"nmrodovia" : "ENTR. BR-101 (P\/ JAGUARUNA) - BALNEÁRIO RINCÃO"
+	},
+	{
+		"sgrodovia" : "SC446",
+		"nmrodovia" : "ENTR. SC-390 (LAURO MÜLLER) - ENTR. BR-101 (P\/ ARARANGUÁ)"
+	},
+	{
+		"sgrodovia" : "SC447",
+		"nmrodovia" : "BALNEÁRIO ARROIO DO SILVA - MORRO GRANDE"
+	},
+	{
+		"sgrodovia" : "SC449",
+		"nmrodovia" : "DIVISA DOS MUNICÍPIOS BALNEÁRIO GAIVOTA\/SOMBRIO - JACINTO MACHADO (ENTR. SC-108)"
+	},
+	{
+		"sgrodovia" : "SC451",
+		"nmrodovia" : "CURITIBANOS (ENTR. SC-120) - ENTR. SC-452 (P\/ FRAIBURGO)"
+	},
+	{
+		"sgrodovia" : "SC452",
+		"nmrodovia" : "ENTR. SC-355 (P\/ FRAIBURGO)- USINA BARRA GRANDE (DIVISA SC\/RS)"
+	},
+	{
+		"sgrodovia" : "SC453",
+		"nmrodovia" : "ENTR. SC-452 (P\/ MONTE CARLO) - LUZERNA (ENTR. SC-150)"
+	},
+	{
+		"sgrodovia" : "SC459",
+		"nmrodovia" : "ENTR. SC-340 (P\/ TIMBÓ GRANDE) - ENTR. SC-135 (P\/ CAÇADOR)"
+	},
+	{
+		"sgrodovia" : "SC462",
+		"nmrodovia" : "DIVISA SC\/PR - MATOS COSTA (ENTR. SC-135)"
+	},
+	{
+		"sgrodovia" : "SC464",
+		"nmrodovia" : "IOMERÊ (ENTR. SC-355) - DISTRITO HERCILIÓPOLIS (ENTR. SC-150)"
+	},
+	{
+		"sgrodovia" : "SC465",
+		"nmrodovia" : "ENTR. SC-350 (P\/ CAÇADOR) - IBICARÉ (ENTR. SC-453)"
+	},
+	{
+		"sgrodovia" : "SC467",
+		"nmrodovia" : "ENTR. BR-282 (P\/ JOAÇABA) - ENTR. SC-390 (P\/ ZORTÉA)"
+	},
+	{
+		"sgrodovia" : "SC468",
+		"nmrodovia" : "ENTR. SC-355 (P\/ JABORÁ) - IPIRA (ENTR. SC-390)"
+	},
+	{
+		"sgrodovia" : "SC469",
+		"nmrodovia" : "ENTR. SC-390 (P\/ PERITIBA) - DIVISA SC\/RS (BALSA)"
+	},
+	{
+		"sgrodovia" : "SC473",
+		"nmrodovia" : "IRANI (ENTR. BR-153) - IPUMIRIM (ENTR. SC-154)"
+	},
+	{
+		"sgrodovia" : "SC477",
+		"nmrodovia" : "CANOINHAS (ENTR. BR-280\/SC-280) - INDAIAL (ENTR. BR-470)"
+	},
+	{
+		"sgrodovia" : "SC479",
+		"nmrodovia" : "ENTR. SC-155 (P\/ ABELARDO LUZ) - ENTR. SC-156 (P\/ ENTRE RIOS)"
+	},
+	{
+		"sgrodovia" : "SC480",
+		"nmrodovia" : "SÃO LOURENÇO DO OESTE (ENTR. SC-157\/BR-158\/ DIVISA SC\/PR) - DISTRITO GOIO-EN (DIVISA SC\/RS)"
+	},
+	{
+		"sgrodovia" : "SC482",
+		"nmrodovia" : "DIVISA SC\/PR - ENTR. SC-159 (P\/ UNIÃO DO OESTE)"
+	},
+	{
+		"sgrodovia" : "SC483",
+		"nmrodovia" : "ENTR. SC-283 (P\/ CHAPECÓ) - PAIAL"
+	},
+	{
+		"sgrodovia" : "SC484",
+		"nmrodovia" : "ENTR. SC-283 (P\/ CHAPECÓ) - CAXAMBU DO SUL (ENTR. SC-159\/SC-160)"
+	},
+	{
+		"sgrodovia" : "SC486",
+		"nmrodovia" : "ITAJAÍ (ENTR. BR-101) - SC-486\/BR-486"
+	},
+	{
+		"sgrodovia" : "SC492",
+		"nmrodovia" : "SANTA TEREZINHA DO PROGRE- DIVISA INTERNACIONAL SC"
+	},
+	{
+		"sgrodovia" : "SC496",
+		"nmrodovia" : "ENTR. SC-163\/BR-163\/BR-38- SÃO JOÃO DO OESTE"
+	},
+	{
+		"sgrodovia" : "TIC01",
+		"nmrodovia" : "PONTE HERCÍLIO LUZ (CABEC- PONTE HERCÍLIO LUZ (CAB"
+	},
+	{
+		"sgrodovia" : "TIC02",
+		"nmrodovia" : "PONTE COLOMBO MACHADO SAL- PONTE COLOMBO MACHADO S"
+	},
+	{
+		"sgrodovia" : "TIC03",
+		"nmrodovia" : "PONTE PEDRO IVO CAMPOS (C- PONTE PEDRO IVO CAMPOS"
+	}
+]

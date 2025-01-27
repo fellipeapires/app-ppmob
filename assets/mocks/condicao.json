@@ -1,0 +1,11 @@
+[
+	{
+		"nmcondicao" : "Com Carga"
+	},
+	{
+		"nmcondicao" : "Vazio e Contaminado"
+	},
+	{
+		"nmcondicao" : "Descontaminado"
+	}
+]

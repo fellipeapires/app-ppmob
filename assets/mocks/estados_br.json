@@ -1,0 +1,191 @@
+[
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "RS",
+    "nmunidadefederal": "Rio Grande do Sul",
+    "flforauso": "N",
+    "idunidadefederal": 2
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "SC",
+    "nmunidadefederal": "Santa Catarina",
+    "flforauso": "N",
+    "idunidadefederal": 3
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "AP",
+    "nmunidadefederal": "Amapá",
+    "flforauso": "N",
+    "idunidadefederal": 4
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "ES",
+    "nmunidadefederal": "Espírito Santo",
+    "flforauso": "N",
+    "idunidadefederal": 5
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "MT",
+    "nmunidadefederal": "Mato Grosso",
+    "flforauso": "N",
+    "idunidadefederal": 6
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "PI",
+    "nmunidadefederal": "Piauí",
+    "flforauso": "N",
+    "idunidadefederal": 7
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "SE",
+    "nmunidadefederal": "Sergipe",
+    "flforauso": "N",
+    "idunidadefederal": 8
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "PR",
+    "nmunidadefederal": "Paraná",
+    "flforauso": "N",
+    "idunidadefederal": 13
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "DF",
+    "nmunidadefederal": "Brasília",
+    "flforauso": "N",
+    "idunidadefederal": 14
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "AM",
+    "nmunidadefederal": "Amazonas",
+    "flforauso": "N",
+    "idunidadefederal": 15
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "CE",
+    "nmunidadefederal": "Ceará",
+    "flforauso": "N",
+    "idunidadefederal": 16
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "MS",
+    "nmunidadefederal": "Mato Grosso do Sul",
+    "flforauso": "N",
+    "idunidadefederal": 17
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "PE",
+    "nmunidadefederal": "Pernambuco",
+    "flforauso": "N",
+    "idunidadefederal": 18
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "RR",
+    "nmunidadefederal": "Roraima",
+    "flforauso": "N",
+    "idunidadefederal": 19
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "SP",
+    "nmunidadefederal": "São Paulo",
+    "flforauso": "N",
+    "idunidadefederal": 24
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "MG",
+    "nmunidadefederal": "Minas Gerais",
+    "flforauso": "N",
+    "idunidadefederal": 25
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "AL",
+    "nmunidadefederal": "Alagoas",
+    "flforauso": "N",
+    "idunidadefederal": 26
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "BA",
+    "nmunidadefederal": "Bahia",
+    "flforauso": "N",
+    "idunidadefederal": 27
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "MA",
+    "nmunidadefederal": "Maranhão",
+    "flforauso": "N",
+    "idunidadefederal": 28
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "PB",
+    "nmunidadefederal": "Paraíba",
+    "flforauso": "N",
+    "idunidadefederal": 29
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "RO",
+    "nmunidadefederal": "Rondônia",
+    "flforauso": "N",
+    "idunidadefederal": 30
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "RJ",
+    "nmunidadefederal": "Rio de Janeiro",
+    "flforauso": "N",
+    "idunidadefederal": 36
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "AC",
+    "nmunidadefederal": "Acre",
+    "flforauso": "N",
+    "idunidadefederal": 37
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "GO",
+    "nmunidadefederal": "Goiás",
+    "flforauso": "N",
+    "idunidadefederal": 39
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "PA",
+    "nmunidadefederal": "Pará",
+    "flforauso": "N",
+    "idunidadefederal": 40
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "RN",
+    "nmunidadefederal": "Rio Grande do Norte",
+    "flforauso": "N",
+    "idunidadefederal": 41
+  },
+  {
+    "cdpais": 1,
+    "sgunidadefederal": "TO",
+    "nmunidadefederal": "Tocantins",
+    "flforauso": "N",
+    "idunidadefederal": 42
+  }
+]
